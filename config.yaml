@@ -1,0 +1,10 @@
+filepath_preprocessing:
+  'C:/Users/gabyl/spark_outputs/preprocessing'
+filepath_feature_engineering:
+  'C:/Users/gabyl/spark_outputs/feature_engineering'
+filepath_train_df:
+  'C:/Users/gabyl/spark_outputs/train_df'
+filepath_test_df:
+  'C:/Users/gabyl/spark_outputs/test_df'
+filepath_pipeline:
+  './pipeline'
